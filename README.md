@@ -1,14 +1,35 @@
+# Hi, I'm Charan Kumar 👋
 
-**Charankumar852/Charankumar852** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech in Computer Science (AI & ML)
 
-Here are some ideas to get you started:
+💻 Aspiring Software Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+- Java
+- SQL
+- HTML
+- CSS
+- JavaScript
+- React
+- Node.js
+- Express.js
+- MongoDB
+- Git
+
+## Current Focus
+
+- Data Structures & Algorithms
+- Full Stack Development
+- System Design
+
+## Projects
+
+- Marketplace Web Application
+- Vaccination Tracker
+- News Application
+
+## Contact
+
+LinkedIn:
+Email:
